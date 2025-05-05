@@ -1,0 +1,5 @@
+- IP address conflicts
+- Slow network speed
+- Intermittent connectivity
+- DNS resolution issues
+- Firewall blocking necessary ports
