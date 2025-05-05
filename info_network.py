@@ -1,8 +1,8 @@
 import datetime
 
 # Personal Information
-full_name = "Matt Tyone De Leon"  # Replace with your actual full name
-student_id = "231-0071"  # Replace with your actual student ID
+full_name = "Matt Tyone De Leon" 
+student_id = "231-0071"  
 
 # Get current date and time
 now = datetime.datetime.now()
