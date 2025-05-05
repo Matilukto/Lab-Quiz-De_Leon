@@ -1,0 +1,11 @@
+total 60
+-rw-rw-r-- 1 devasc devasc   326 Apr 24 02:24 analyze_data.py
+drwxr-xr-x 2 devasc devasc  4096 Jul 21  2020 Desktop
+drwxr-xr-x 2 devasc devasc  4096 Apr  7 08:17 Documents
+drwxr-xr-x 2 devasc devasc  4096 Apr  7 08:17 Downloads
+drwxrwxr-x 4 devasc devasc  4096 May  5 02:26 lab_quiz_deleon
+-rw-rw-r-- 1 devasc devasc 28108 May  5 02:31 lab_quiz_deleon.zip
+drwxr-xr-x 3 devasc devasc  4096 Jun 17  2020 labs
+-rw-rw-r-- 1 devasc devasc     0 May  5 02:32 permissions.txt
+drwxrwxr-x 5 devasc devasc  4096 Apr 24 02:43 project_review
+drwxr-xr-x 5 devasc devasc  4096 Jun 17  2020 snap
